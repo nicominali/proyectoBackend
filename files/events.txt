@@ -1,0 +1,20 @@
+[
+  {
+    "id": "9E5PqvO",
+    "title": "lolapaluza",
+    "location": "campo",
+    "price": "5550",
+    "capacity": 55,
+    "status": "open",
+    "participants": []
+  },
+  {
+    "id": "9xoBs16",
+    "title": "partido",
+    "location": "Qatar",
+    "price": "85550",
+    "capacity": 755,
+    "status": "open",
+    "participants": []
+  }
+]
